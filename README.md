@@ -13,14 +13,7 @@
 </p>
 
 <p align="center">
-  
-  <img src="https://img.shields.io/badge/Detection-TLD%20%7C%20DNS%20%7C%20GeoIP-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/License-Commercial-orange?style=flat-square"/>
-  <img src="https://img.shields.io/github/v/release/Retiredems/EMS-Country-Sorter?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=flat-square"/>
-  
-  
-  
+
 </p>
 
 ---
@@ -34,11 +27,11 @@ Built for **email marketers**, **mailer operators**, and **list managers** who n
 ---
 
 ## Screenshots
-<img width="1064" height="671" alt="Screenshot 2026-05-03 at 11 40 36" src="https://github.com/user-attachments/assets/c1f0deca-ea5d-494c-8404-175555da3c7b" />
-<img width="1064" height="670" alt="Screenshot 2026-05-03 at 11 40 11" src="https://github.com/user-attachments/assets/86b782c5-e8dd-4f00-8461-1eda15b4a551" />
-<img width="1063" height="670" alt="Screenshot 2026-05-03 at 11 39 38" src="https://github.com/user-attachments/assets/94803989-afd1-479e-91b6-d4e60a442645" />
-<img width="1063" height="671" alt="Screenshot 2026-05-03 at 11 39 17" src="https://github.com/user-attachments/assets/a166dd4f-e12d-4c7f-9e69-10a78b59f077" />
-<img width="1066" height="667" alt="Screenshot 2026-05-03 at 05 43 16" src="https://github.com/user-attachments/assets/5a5e9fca-bc06-40ea-97aa-84f595872e13" />
+<img width="1066" height="667" alt="Screenshot 2026-05-03 at 05 43 16" src="https://github.com/user-attachments/assets/560c1df8-74ea-4712-92a8-d75ae19598c4" />
+<img width="1063" height="671" alt="Screenshot 2026-05-03 at 11 39 17" src="https://github.com/user-attachments/assets/2c8017e3-3678-48f6-b3e0-577ffb1c11c1" />
+<img width="1063" height="670" alt="Screenshot 2026-05-03 at 11 39 38" src="https://github.com/user-attachments/assets/2e193315-9349-4d80-bfcb-387208495c81" />
+<img width="1064" height="670" alt="Screenshot 2026-05-03 at 11 40 11" src="https://github.com/user-attachments/assets/9cb3543f-5237-4608-b290-e45660d989fe" />
+<img width="1064" height="671" alt="Screenshot 2026-05-03 at 11 40 36" src="https://github.com/user-attachments/assets/34460478-7746-4daa-be93-fe24d9a61063" />
 
 
 
