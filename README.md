@@ -32,8 +32,7 @@ Built for **email marketers**, **mailer operators**, and **list managers** who n
 <img width="1063" height="670" alt="Screenshot 2026-05-03 at 11 39 38" src="https://github.com/user-attachments/assets/2e193315-9349-4d80-bfcb-387208495c81" />
 <img width="1064" height="670" alt="Screenshot 2026-05-03 at 11 40 11" src="https://github.com/user-attachments/assets/9cb3543f-5237-4608-b290-e45660d989fe" />
 <img width="1064" height="671" alt="Screenshot 2026-05-03 at 11 40 36" src="https://github.com/user-attachments/assets/34460478-7746-4daa-be93-fe24d9a61063" />
-
-
+<img width="1062" height="675" alt="Screenshot 2026-05-03 at 14 43 03" src="https://github.com/user-attachments/assets/77ada22f-3076-49f9-8f6d-0e7d5303fd9c" />
 
 ---
 
