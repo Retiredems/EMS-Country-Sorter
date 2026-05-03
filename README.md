@@ -1,5 +1,8 @@
 <p align="center">
   <img src="assets/icon.png" alt="EMS Country Sorter" width="96"/>
+
+  <img width="835" height="559" alt="IMG_5532" src="https://github.com/user-attachments/assets/f745766f-bb83-4263-9bbc-5f9844c0c934" />
+
 </p>
 
 <h1 align="center">EMS Country Sorter</h1>
@@ -10,10 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=flat-square"/>
+  
   <img src="https://img.shields.io/badge/Detection-TLD%20%7C%20DNS%20%7C%20GeoIP-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/License-Commercial-orange?style=flat-square"/>
   <img src="https://img.shields.io/github/v/release/Retiredems/EMS-Country-Sorter?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=flat-square"/>
+  
+  
+  
 </p>
 
 ---
@@ -27,8 +34,13 @@ Built for **email marketers**, **mailer operators**, and **list managers** who n
 ---
 
 ## Screenshots
+<img width="1064" height="671" alt="Screenshot 2026-05-03 at 11 40 36" src="https://github.com/user-attachments/assets/c1f0deca-ea5d-494c-8404-175555da3c7b" />
+<img width="1064" height="670" alt="Screenshot 2026-05-03 at 11 40 11" src="https://github.com/user-attachments/assets/86b782c5-e8dd-4f00-8461-1eda15b4a551" />
+<img width="1063" height="670" alt="Screenshot 2026-05-03 at 11 39 38" src="https://github.com/user-attachments/assets/94803989-afd1-479e-91b6-d4e60a442645" />
+<img width="1063" height="671" alt="Screenshot 2026-05-03 at 11 39 17" src="https://github.com/user-attachments/assets/a166dd4f-e12d-4c7f-9e69-10a78b59f077" />
+<img width="1066" height="667" alt="Screenshot 2026-05-03 at 05 43 16" src="https://github.com/user-attachments/assets/5a5e9fca-bc06-40ea-97aa-84f595872e13" />
 
-<!-- Drag and drop your screenshots below this line -->
+
 
 ---
 
