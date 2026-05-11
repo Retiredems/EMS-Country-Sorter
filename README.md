@@ -1,3 +1,7 @@
+<!-- ems-callout -->
+> **v1.0.5 — refreshed brand and a polished activation flow.** Same software, sharper edges. [→ Download the latest build](https://github.com/Retiredems/EMS-Country-Sorter/releases/latest)
+<!-- ems-callout -->
+
 <p align="center">
   <img src="assets/icon.png" alt="EMS Country Sorter" width="96"/>
 
