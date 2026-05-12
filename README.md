@@ -2,10 +2,9 @@
 > **v1.0.6 — refreshed brand and a polished activation flow.** Same software, sharper edges. [→ Download the latest build](https://github.com/Retiredems/EMS-Country-Sorter/releases/latest)
 <!-- ems-callout -->
 <p align="center">
-  <img src="assets/icon.png" alt="EMS Country Sorter" width="96"/>
+<img width="818" height="544" alt="Screenshot 2026-05-12 at 01 38 14" src="https://github.com/user-attachments/assets/c3be44d2-b910-453d-bd0b-9ed53fc4c057" />
 
-  <img width="835" height="559" alt="IMG_5532" src="https://github.com/user-attachments/assets/f745766f-bb83-4263-9bbc-5f9844c0c934" />
-
+  
 </p>
 
 <h1 align="center">EMS Country Sorter</h1>
